@@ -50,4 +50,16 @@ The contract enables users or authorized entities to permanently remove tokens f
 CACRK2H4M3ARKIVFDCQQRD5Y42ZIKNZIHKCD5T476NHJ6C3WDJPXKTJ2
 <img width="1920" height="1080" alt="Screenshot 2026-03-20 114357" src="https://github.com/user-attachments/assets/5fa8e40a-1354-4124-a22e-efda419385fc" />
 
+---
+
+## 📈 Future Improvements
+
+* 🔄 Automated burn schedules
+
+* 🗳️ Governance-based burn voting
+
+* 💸 Burn incentives for users
+
+* 📊 Dashboard for tracking burned tokens
+
 
